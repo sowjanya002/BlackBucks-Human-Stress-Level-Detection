@@ -1,5 +1,5 @@
 # Human-Stress-Level-Detection
-*Human Stress Level Detection Using Machine Learning
+*Human Stress Level Detection Using Machine Learning**
 
 Human Stress Level Detection is a machine learning project that predicts an individual's stress level based on physiological and lifestyle-related attributes. The project focuses on building an accurate and user-friendly stress prediction system by applying data preprocessing, exploratory data analysis (EDA), feature engineering, and supervised machine learning algorithms.
 
